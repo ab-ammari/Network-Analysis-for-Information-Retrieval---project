@@ -1,0 +1,96 @@
+=== Cluster 0 ===
+detect: 559.1985
+system: 64.5880
+network: 60.6381
+featur: 60.1167
+anomali: 59.6061
+object: 56.0771
+attack: 50.6022
+algorithm: 47.1774
+intrus: 38.1170
+time: 37.5637
+
+=== Cluster 1 ===
+system: 1125.5205
+control: 538.2317
+robot: 492.3071
+model: 221.3597
+design: 211.7215
+time: 157.2308
+develop: 142.9946
+inform: 128.8257
+user: 125.3453
+dynam: 124.3481
+
+=== Cluster 2 ===
+imag: 771.9107
+segment: 116.1771
+featur: 99.3012
+classif: 70.2425
+algorithm: 64.2133
+model: 57.0660
+reconstruct: 55.6929
+resolut: 55.6386
+learn: 54.0179
+network: 51.8048
+
+=== Cluster 3 ===
+n: 333.9499
+r: 324.2336
+purpos: 9.9567
+model: 9.5571
+valu: 9.0401
+inform: 8.3530
+design: 7.7705
+find: 7.7188
+system: 7.5590
+methodolog: 7.4690
+
+=== Cluster 4 ===
+learn: 798.9681
+deep: 133.6227
+machin: 119.6699
+model: 104.1282
+network: 71.9757
+reinforc: 71.2648
+student: 70.7759
+featur: 68.7783
+task: 64.6823
+train: 62.5958
+
+=== Cluster 5 ===
+algorithm: 809.1707
+problem: 581.8752
+optim: 509.7552
+model: 500.6569
+time: 440.2277
+perform: 354.9584
+estim: 351.5221
+comput: 338.4408
+graph: 336.6042
+n: 297.0105
+
+=== Cluster 6 ===
+model: 643.4442
+user: 384.6790
+inform: 372.5122
+design: 362.4551
+comput: 339.9917
+applic: 337.1286
+secur: 326.5673
+process: 325.2199
+servic: 298.1070
+develop: 296.6235
+
+=== Cluster 7 ===
+network: 1208.9125
+wireless: 242.6753
+neural: 211.7147
+node: 202.2107
+sensor: 181.3240
+energi: 177.7470
+commun: 152.9512
+social: 141.7448
+mobil: 138.7956
+model: 132.4938
+
