@@ -1,0 +1,171 @@
+=== Cluster 0 ===
+
+1. Design and implementation of a 2 μA temperature-compensated MEMS-based real-time clock with ±4 ppm timekeeping accuracy
+   Abstract: This paper presents the design and measurements of a temperature-compensated real-time clock based on a silicon resonator. The system exhibits timekeeping accuracy of ±4 ppm over the −40 to 85 °C temp...
+   Similarité: 0.8067
+
+2. A 5.92-Mb/mm 2 28-nm pseudo 2-read/write dual-port SRAM using double pumping circuitry
+   Abstract: We propose pseudo dual-port (DP) SRAM by using 6T single-port (SP) SRAM bitcell with double pumping circuitry, which enables 2-read/write (2RW) operation within a clock cycle. The data sequencer for a...
+   Similarité: 0.8061
+
+3. Overloaded CDMA interconnect for Network-on-Chip (OCNoC)
+   Abstract: Networks on Chip (NoCs) have replaced on-chip buses as the paramount communication strategy in large scale Systems-on-Chips (SoCs). Code Division Multiple Access (CDMA) has been proposed as an interco...
+   Similarité: 0.7924
+
+4. FPGA-based accelerator for long short-term memory recurrent neural networks
+   Abstract: Long Short-Term Memory Recurrent neural networks (LSTM-RNNs) have been widely used for speech recognition, machine translation, scene analysis, etc. Unfortunately, general-purpose processors like CPUs...
+   Similarité: 0.7827
+
+5. Voltage Mode Doherty Power Amplifier
+   Abstract: This paper presents a new wideband Doherty amplifier technique that can achieve high efficiency while maintaining excellent linearity. By modifying a “forgotten” topology originally proposed by Dohert...
+   Similarité: 0.7742
+
+=== Cluster 1 ===
+
+1. A Micro Bubble Structure Based Fabry–Perot Optical Fiber Strain Sensor with High Sensitivity and Low-Cost Characteristics
+   Abstract: A high-sensitivity, low-cost, ultrathin, hollow fiber micro bubble structure was proposed; such a bubble can be used to develop a high-sensitivity strain sensor based on a Fabry–Perot interferometer (...
+   Similarité: 0.8109
+
+2. Fine Particle Sensor Based on Multi-Angle Light Scattering and Data Fusion
+   Abstract: Meteorological parameters such as relative humidity have a significant impact on the precision of PM2.5 measurement instruments based on light scattering. Instead of adding meteorological sensors or d...
+   Similarité: 0.8006
+
+3. Pulse oximetry using a buried quad junction photodetector
+   Abstract: Traditional pulse oximeters rely on the use of red and infrared LEDs and a photodiode for measuring transmittance between tissues and estimate the functional oxygen saturation. Currently, studies are ...
+   Similarité: 0.7910
+
+4. Magnetic Navigation System Utilizing Resonant Effect to Enhance Magnetic Field Applied to Magnetic Robots
+   Abstract: We propose a novel magnetic navigation system (MNS) with the resonant effect of an  RLC  circuit to generate large magnetic field in high frequency. The variable capacitors of the proposed MNS make it...
+   Similarité: 0.7770
+
+5. Beat Detection of Blood Vessel from SLO Eye Fundus Moving Image
+   Abstract: Abstract   An eye fundus is an only part where a blood vessel can be observed directly from the outside of the human body. An elasticity of a blood vessel on an eye fundus is lost according as the pro...
+   Similarité: 0.7759
+
+=== Cluster 2 ===
+
+1. MSCAN : A tool for analyzing MSC specifications
+   Abstract: We present the tool MSCAN, which supports MSC-based system development. In particular, it automatically checks high-level MSC specifications for implementability.
+   Similarité: 0.8366
+
+2. Multiuse Playspaces: Mediating Expressive Community Places
+   Abstract: The authors present their design-led development process in creating an exemplar multiuse playspace in the Adressaparken public park in Trondheim, Norway.
+   Similarité: 0.8073
+
+3. Keynote address: Opening keynote
+   Abstract: The complete presentation was not made available for publication as part of the conference proceedings. Provides a brief professional biography of the presenter.
+   Similarité: 0.7948
+
+4. Formal Model for Intelligent Route Planning
+   Abstract: This paper presents an approach towards intelligent route planning in public transport systems. The approach focuses on formal modelling of the semi-dynamic intelligent route planning and optimisation...
+   Similarité: 0.7858
+
+5. SenseBox: A low-cost smart home system
+   Abstract: Smart home technologies are getting acclaimed for providing a wide variety of functionalities - security, appliance control, HVAC control and remote monitoring. Installation cost and interoperability ...
+   Similarité: 0.7815
+
+=== Cluster 3 ===
+
+1. Analyzing energy efficient physical layer security in large-scale MIMO enabled CRN with QoS requirements
+   Abstract: In this paper, we investigate the energy efficient physical layer security in large scale multiple-input multiple output (MIMO) cognitive radio networks where each secondary user has its imposed quali...
+   Similarité: 0.8574
+
+2. On Capacity of Full-Duplex Cognitive Cooperative Radio Networks with Optimal Power Allocation
+   Abstract: In this paper, we examine a full-duplex transmission scheme for cognitive cooperative radio networks (CCRNs) to improve capacity. In this network, the secondary transmitter and secondary relay are all...
+   Similarité: 0.7970
+
+3. Channel allocation and transmission power management scheme in software defined network-based WLAN environments
+   Abstract: Wireless local area network (WLAN) uses carrier sens multiple access with collision avoidance (CSMA/CA) to share wireless medium. However, in dense WLAN environment, it occurs interference between WLA...
+   Similarité: 0.7905
+
+4. An Environment-Friendly Multipath Routing Protocol for Underwater Acoustic Sensor Network
+   Abstract: Underwater Acoustic Sensor Network (UASN) is a promising technique by facilitating a wide range of aquatic applications. However, routing scheme in UASN is a challenging task because of the characteri...
+   Similarité: 0.7877
+
+5. MASTaR: MAC Protocol for Access Points in Simultaneous Transmit and Receive Mode
+   Abstract: In-band simultaneous transmit and receive (STR) is expected to increase the efficiency of wireless local area network (WLAN). A major obstacle to implementing STR capability, however, has been insuffi...
+   Similarité: 0.7821
+
+=== Cluster 4 ===
+
+1. Research on the influence of mentoring relationship on improving the career satisfaction of young teachers in universities and colleges — The moderating effect of gender
+   Abstract: Young teachers are the main force for the future development of universities and colleges. For individual young teachers, the degree of career satisfaction exerts a direct influence on their working e...
+   Similarité: 0.8676
+
+2. Organizational Citizenship Behaviors as a Mediator between Culture and Turnover Intentions: Mediating Effect of OCBs
+   Abstract: An attempt has been made to investigate the mediating role of OCBs in culture and turnover intentions. Data was collected from 15 BPO units located in Chandigarh. Findings revealed that OCBs of employ...
+   Similarité: 0.8548
+
+3. The moderating role of social media usage in the relationship among multicultural experiences, cultural intelligence, and individual creativity
+   Abstract: Purpose#R##N##R##N##R##N##R##N##R##N#The purpose of this paper is to explore the moderating role of social media usage in the relationship among multicultural experiences, cultural intelligence, and c...
+   Similarité: 0.8510
+
+4. Understanding the relationships between online entrepreneurs’ personal innovativeness, risk taking, and satisfaction: Comparison of pure-play and click-and-mortar
+   Abstract: ABSTRACTThe purpose of this study is to investigate the effects of personal innovativeness and risk taking on online entrepreneurs’ satisfaction. Two types of online entrepreneurs (pure-play and click...
+   Similarité: 0.8286
+
+5. Early career researchers and their publishing and authorship practices
+   Abstract: Abstract#R##N#This study presents findings from the first year of the Harbingers research project, a 3-year longitudinal study of early career researchers (ECRs), which sought to ascertain current and...
+   Similarité: 0.8252
+
+=== Cluster 5 ===
+
+1. A $q$-enumeration of lozenge tilings of a hexagon with four adjacent triangles removed from the boundary
+   Abstract: MacMahon proved a simple product formula for the generating function of plane partitions fitting in a given box. The theorem implies a   q     q       -enumeration of lozenge tilings of a semi-regular...
+   Similarité: 0.8735
+
+2. On Infinite Linear Programming and the Moment Approach to Deterministic Infinite Horizon Discounted Optimal Control Problems
+   Abstract: We revisit the linear programming approach to deterministic, continuous time, infinite horizon discounted optimal control problems. In the first part, we relax the original problem to an infinite-dime...
+   Similarité: 0.8467
+
+3. On bisections of directed graphs
+   Abstract: A bisection of a graph is a partition of its vertex set into two sets which differ in size by at most 1. In this paper, we consider bisections of directed graphs such that both directions of the direc...
+   Similarité: 0.8437
+
+4. Asymptotical boundedness and moment exponential stability for stochastic neutral differential equations with time-variable delay and markovian switching
+   Abstract: This paper deals with nonlinear stochastic neutral differential equations (SNDEs) with time-variable delay and markovian switching. Several criteria for asymptotical boundedness and moment exponential...
+   Similarité: 0.8383
+
+5. A Generalization of Siegel's Theorem and Hall's Conjecture
+   Abstract: Consider an elliptic curve defined over the rational numbers and embedded in projective space. The rational points on the curve are viewed as integer vectors with coprime coordinates. What can be said...
+   Similarité: 0.8328
+
+=== Cluster 6 ===
+
+1. Momentum Control of an Underactuated Flying Humanoid Robot.
+   Similarité: 0.9740
+
+2. Vertex-disjoint cycles containing specified edges in a bipartite graph
+   Similarité: 0.9680
+
+3. Guest editorial for the IJCARS special issue on JAMIT 2015 and 2016
+   Similarité: 0.9674
+
+4. Biased random walks
+   Similarité: 0.9672
+
+5. A Paraconsistent Higher Order Logic.
+   Similarité: 0.9659
+
+=== Cluster 7 ===
+
+1. Maximum a posteriori estimation method for aorta localization and coronary seed identification
+   Abstract: We propose a robust method for the automatic identification of seed points for the segmentation of coronary arteries from coronary computed tomography angiography (CCTA). The detection of the aorta an...
+   Similarité: 0.8113
+
+2. Circular shape constrained fuzzy clustering (CiscFC) for nucleus segmentation in Pap smear images
+   Abstract: Accurate detection and segmentation of cell nucleus is the precursor step towards computer aided analysis of Pap smear images. This is a challenging and complex task due to degree of overlap, inconsis...
+   Similarité: 0.7767
+
+3. SCNet: Learning Semantic Correspondence
+   Abstract: This paper addresses the problem of establishing semantic correspondences between images depicting different instances of the same object or scene category. Previous approaches focus on either combini...
+   Similarité: 0.7761
+
+4. Urdu Nastaliq recognition using convolutional–recursive deep learning
+   Abstract: Recent developments in recognition of cursive scripts rely on implicit feature extraction methods that provide better results as compared to traditional hand-crafted feature extraction approaches. We ...
+   Similarité: 0.7744
+
+5. Classification of breast tumors in ultrasound using biclustering mining and neural network
+   Abstract: Ultrasound imaging is now becoming a frequently used tool in clinical diagnosis. In this article, a novel diagnosis scheme is proposed to aid the identification of breast lesions. In this approach, fe...
+   Similarité: 0.7732
+
